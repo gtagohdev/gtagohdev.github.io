@@ -1,1 +1,1 @@
-Reactive Working Group - Privacy Policy
+## Reactive Working Group - Privacy Policy
