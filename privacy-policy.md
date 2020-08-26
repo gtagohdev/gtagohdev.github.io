@@ -66,7 +66,7 @@ We do not knowingly collect any Personal Identifiable Information from children 
 
 &nbsp;  
 ## Online Privacy Policy Only
-This Privacy Policy applies only to our online activities and is valid for visitors or users of our website or app services. This policy is not applicable to any information collected offline or via channels other than the website and app services.
+This Privacy Policy applies only to our online activities and is valid for visitors or users of our website and/or app services. This policy is not applicable to any information collected offline or via channels other than the website and/or app services.
 
 &nbsp;  
 ## Changes to This Privacy Policy
