@@ -1,6 +1,14 @@
-<h1>Privacy Policy for Reactive Working Group</h1>
+<h1>Privacy Policy - Reactive Working Group</h1>
 
-<p>At Reactive Working Group, accessible from https://gtagohdev.github.io/privacy-policy, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Reactive Working Group and how we use it.</p>
+<p>This Privacy Policy is meant to help you understand what information we collect, why we collect it and how we use it through the website and app services provided by Reactive Working Group.</p>
+
+<p>Effective <b>[August 26, 2020]</b> | Last updated on <b>[August 26, 2020].</b></p>
+
+<h2>Consent</h2>
+<p>By using our website and app services, you hereby consent to our Privacy Policy and agree to its terms and conditions.</p>
+
+<h2>Information We Collect</h2>
+<p>We may collect various information in order to provider better services to users. Types of information we collect depend on how you use our website and app services. The information may retain in your device disk or in our centralized repository or both. The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. We treat account credentials, reference ids, personally identifiable information as personal informaiton.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us. Our Privacy Policy was created with the help of the <a href="https://www.generateprivacypolicy.com">Privacy Policy Generator</a>.</p>
 
@@ -53,6 +61,8 @@
 
 <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Reactive Working Group. This policy is not applicable to any information collected offline or via channels other than this website.</p>
 
-<h2>Consent</h2>
+<h2>Contact</h2>
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at the following email address.
+    <br><indent></indent>
+</p>
 
-<p>By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>
