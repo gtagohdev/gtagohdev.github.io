@@ -24,6 +24,7 @@ We may process the information we collect in various ways, including but not lim
 - Communicate with you on the matter of website and/or app serevices
 - Find and prevent fraud
 - Legal claims and compliance
+
 We may retain the information for up to maximum 7 years or shorter and dispose it after that. 
 
 &nbsp;  
