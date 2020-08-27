@@ -16,7 +16,7 @@ We may collect various information in order to provider better services to users
 
 &nbsp;  
 ## How We Use The Information
-We may process the information we collect in various ways, including but not limiting to:  
+We may process the information we collect in various ways, including but not limited to:  
 - Provide, operate, and maintain our website and/or app services
 - Improve, personalize, and expand our website and/or app serivces
 - Understand and analyze the performance of the website and/or app services
