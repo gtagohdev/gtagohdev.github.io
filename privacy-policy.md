@@ -2,7 +2,9 @@
 
 This Privacy Policy is meant to help you understand what information we collect, why we collect it and how we use it through the website and/or app services provided by Reactive Working Group ("we, "us", "our").
 
-Effective **August 26, 2020** | Last updated on **August 26, 2020**
+Effective | Last updated
+:----- | :-----   
+  **August 26, 2020**&nbsp; | **August 26, 2020**&nbsp;
 
 &nbsp;  
 ## Consent  
@@ -10,7 +12,7 @@ By using our website and/or app services, you hereby consent to our Privacy Poli
 
 &nbsp;  
 ## Information We Collect
-We may collect various information in order to provider better services to users. Types of information we collect depend on how you use our website and/or app services. The information may retain in your device disk or in our centralized repository or both. The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. We treat account credentials, reference ids, personally identifiable information as personal informaiton. Other information we may collect are the activities of using the services.
+We may collect various information in order to provider better services to users. Types of information we collect depend on how you use our website and/or app services. The information may retain in your device and/or in our centralized repository. The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. We treat account credentials, reference ids, personally identifiable information as personal informaiton. Other information we may collect are the activities of using the services.
 
 &nbsp;  
 ## How We Use The Information
