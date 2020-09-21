@@ -2,9 +2,9 @@
 
 This Privacy Policy is meant to help you understand what information we collect, why we collect it and how we use it through the website and/or app services provided by Reactive Working Group ("we, "us", "our").
 
-Effective | Last updated
-:----- | :-----   
-  **August 26, 2020**&nbsp; | **August 26, 2020**&nbsp;
+| Effective | Last updated |
+|:----- | :----- |
+| **August 26, 2020**&nbsp; | **August 26, 2020**&nbsp; |
 
 &nbsp;  
 ## Consent  
