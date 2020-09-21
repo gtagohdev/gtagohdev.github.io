@@ -1,9 +1,9 @@
 # Rapid Code Reader App Information & Support
 
-| Platform | Version name | Code version | Release date |
+| Platform | Version name | Build version | Release date |
 |:----- | :----- | -----: | :----- |
 | **ANDROID**&nbsp; | **1.0.0**&nbsp; | **6**&nbsp; | **Sep 1, 2020**&nbsp; |
-| **IOS**&nbsp; | **1.3.0**&nbsp; | **7**&nbsp; | **Sep 21, 2020**&nbsp; |
+| **IOS**&nbsp; | **1.3.0**&nbsp; | **8**&nbsp; | **Sep 21, 2020**&nbsp; |
   
 &nbsp;  
 Rapid Code Reader is designed with simplicity yet high flexibility in concept that automatically and effectively reads, 
