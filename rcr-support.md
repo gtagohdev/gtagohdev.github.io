@@ -1,5 +1,9 @@
 # Rapid Code Reader App Information & Support
-
+Platform | Version name | Code version | Release date
+:----- | :----- | :----- | :----- 
+  **ANDROID**&nbsp; | **1.0.0**&nbsp; | **6**&nbsp; | **1 Sep 2020**&nbsp;
+  **IOS**&nbsp; | **1.3.0**&nbsp; | **7**&nbsp; | **21 Sep 2020**&nbsp;  
+  
 &nbsp;  
 Rapid Code Reader is designed with simplicity yet high flexibility in concept that automatically and effectively reads, 
 decodes and extracts contents from QR codes and other various standard barcodes.
