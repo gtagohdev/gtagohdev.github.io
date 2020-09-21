@@ -1,4 +1,5 @@
 # Rapid Code Reader App Information & Support
+
 Platform | Version name | Code version | Release date
 :----- | :----- | :----- | :-----   
   **ANDROID**&nbsp; | **1.0.0**&nbsp; | **6**&nbsp; | **Sep 1, 2020**&nbsp;
