@@ -1,7 +1,7 @@
 # Rapid Code Reader App Information & Support
 
 | Platform | Version name | Build version | Release date |
-|:----- | :----- | -----: | :----- |
+|:----- | -----: | -----: | :----- |
 | **ANDROID**&nbsp; | **1.3.0**&nbsp; | **11**&nbsp; | **Sep 22, 2020**&nbsp; |
 | **IOS**&nbsp; | **1.3.0**&nbsp; | **11**&nbsp; | **Sep 22, 2020**&nbsp; |
   
