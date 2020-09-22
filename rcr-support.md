@@ -13,6 +13,7 @@ decodes and extracts contents from QR codes and other various standard barcodes.
 ## The following are the main features
 - Automatically recognize and scan QR codes and other major barcodes
 - Camera selection, auto-focus and flash on-off flexibility
+- Image aspect ratio adjustment to correct image distortion in some of the cameras that having difficulty in scanning of the code 
 - Responsive data extracting and saving
 - Transparent and accurate data type identification, classification and highlighting for data viewing, sharing and response
 - Option to automatically open single weblink 
