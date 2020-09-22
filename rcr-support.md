@@ -21,13 +21,13 @@ decodes and extracts contents from QR codes and other various standard barcodes.
 - In app multilingual supports
 
 &nbsp; 
-## List of supported data handlers
-- Composite text displaying
-- Sharing of contents through standard apps or tools installed in the device
+## List of supported data handlers (in prioritized sequence)
 - Explicit and implicit weblink handling (enable links and opening of link in web browser)
 - Explicit and implicit email handling (enable links and opening of data in email client)
-- Explicit and implicit phone number handling (enable links and opening of number in phone caller)
 - Implicit sms number handling (enable links and opening of sms data in sms tool)
+- Explicit and implicit phone number handling (enable links and opening of number in phone caller)
+- Composite text displaying
+- Sharing of contents through standard apps or tools installed in the device
 
 &nbsp; 
 ## List of supported in-app languages
