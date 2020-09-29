@@ -3,7 +3,7 @@
 | Platform | Version name | Build version | Release date |
 |:----- | -----: | -----: | :----- |
 | **ANDROID**&nbsp; | **1.3.0**&nbsp; | **11**&nbsp; | **Sep 22, 2020**&nbsp; |
-| **IOS**&nbsp; | **1.3.0**&nbsp; | **11**&nbsp; | **Sep 22, 2020**&nbsp; |
+| **IOS**&nbsp; | **1.3.1**&nbsp; | **13**&nbsp; | **Sep 29, 2020**&nbsp; |
   
 &nbsp;  
 Rapid Code Reader is designed with simplicity yet high flexibility in concept that automatically and effectively reads, 
@@ -25,7 +25,7 @@ decodes and extracts contents from QR codes and other various standard barcodes.
 ## List of supported data handlers (in prioritized sequence)
 - Explicit and implicit weblink handling (enable links and opening of link in web browser)
 - Explicit and implicit email handling (enable links and opening of data in email client)
-- Implicit sms number handling (enable links and opening of sms data in sms tool)
+- Explicit sms number handling (enable links and opening of sms data in sms tool)
 - Explicit and implicit phone number handling (enable links and opening of number in phone caller)
 - Composite text displaying
 - Sharing of contents through standard apps or tools installed in the device
