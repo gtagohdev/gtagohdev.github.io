@@ -2,7 +2,7 @@
 
 | Platform | Version name | Build version | Release date |
 |:----- | -----: | -----: | :----- |
-| **ANDROID**&nbsp; | **1.3.0**&nbsp; | **11**&nbsp; | **Sep 22, 2020**&nbsp; |
+| **ANDROID**&nbsp; | **1.8.0**&nbsp; | **14**&nbsp; | **Oct 23, 2020**&nbsp; |
 | **IOS**&nbsp; | **1.3.1**&nbsp; | **13**&nbsp; | **Sep 29, 2020**&nbsp; |
   
 &nbsp;  
@@ -14,7 +14,8 @@ decodes and extracts contents from QR codes and other various standard barcodes.
 - Automatically recognize and scan QR codes and other major barcodes
 - Camera selection, auto-focus (applicable to Android only) and flash on-off flexibility
 - Image aspect ratio adjustment to correct image distortion in some of the cameras that having difficulty in scanning of the code (applicable to Android only) 
-- Responsive data extracting and saving
+- Multiple barcodes reading through image file (jpg or png)
+- Responsive data extracting, saving and contents navigation
 - Transparent and accurate data type identification, classification and highlighting for data viewing, sharing and response
 - Option to automatically open single weblink 
 - Convenience of history retrieval and smart maintenance
@@ -39,12 +40,14 @@ decodes and extracts contents from QR codes and other various standard barcodes.
 - Indonesian
 - Thai
 - Vietnamese
+- Japanese
+- Korean
+- Tamil
 
 &nbsp; 
 ## More new features in coming versions:
 - To support more specific data handlers
 - To support more in app languages
-- Other potential scanning modes
 
 &nbsp;  
 ## Support Contact
